@@ -1,0 +1,26 @@
+.box{
+    margin:20% auto;
+    color:rgb(19, 18, 18);
+    font-family: sans-serif;
+   border: 3pxsolid lightgray;
+   width: 400px;
+   background-color: rgb(26, 211, 97);
+   border-radius: 3%;
+  padding: 50px 30px;
+  align-self: center;
+}
+.btn{
+    border:1px solid lightgray;
+    color:black;
+    font-size: larger;
+    border-top-right-radius:100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+    padding:10px ;
+    width:200px
+    
+
+}
+
+    

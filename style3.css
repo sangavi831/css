@@ -1,0 +1,21 @@
+.all{
+    border:2px solid white;
+    width:300px;
+    padding:10px;
+    margin:200px auto;
+
+}
+.img{
+    width:200px;
+}
+.btn{
+    border-top-right-radius:100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+    color:white;
+    background-color: black;
+    font-family: sans-serif;
+    padding:5px;
+    width:150px;
+}
